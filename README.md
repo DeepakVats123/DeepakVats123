@@ -67,7 +67,7 @@
 <!--  <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=Hardeep317&theme=react-dark" alt="activitygraph&theme=dark" />  -->
 <br />
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardeep317&theme=dark" alt=""/></p> -->
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakvats123&theme=dark" alt=""/></p> -->
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=deepakvats123&theme=dark" alt=""/> </p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakvats123&theme=vue" alt="summarycard"/> </p>
 <hr />
