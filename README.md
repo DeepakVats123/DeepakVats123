@@ -78,6 +78,6 @@
 </h3>
 <br>
 <h3 align="center"> 
-  Visitor count <br>
+  Visitor count <br> <br>
   <img src="https://profile-counter.glitch.me/deepakvats123/count.svg" />
 </h3>
