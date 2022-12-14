@@ -8,7 +8,6 @@
 
 <img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="280px" align="right" />
 
-
   <br>
 
 - 🔭 I’m currently working on `Something Intresting`.
@@ -65,7 +64,7 @@
 
 <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=deepakvats123&show_icons=true&theme=dark" />
-<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvats123&layout=compact&theme=dark" /> -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvats123&layout=compact&theme=dark" />
 </div>
 <!--  <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=Hardeep317&theme=react-dark" alt="activitygraph&theme=dark" />  -->
