@@ -76,7 +76,7 @@
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
 </h3>
-<br>
+<!-- <br> -->
 <h3 align="center"> 
   Visitor count <br> <br>
   <img src="https://profile-counter.glitch.me/deepakvats123/count.svg" />
