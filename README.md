@@ -65,19 +65,19 @@ Find out more about me & feel free to connect with me here:
 </p>
 
 
-<!-- ## 🔝 Most used languages -->
+## 🔝 Most used languages
 
-<!--!<p align="center">
+<p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvats123&layout=compact&hide_border=true&theme=radical" />
-</p>-->
-
----
+</p>
 
 
 
-![Shakti's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=deepakvats123&hide_border=true&theme=redical)
 
----
+
+[Deepak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=deepakvats123&hide_border=true&theme=redical)
+
+
 
 <p align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
