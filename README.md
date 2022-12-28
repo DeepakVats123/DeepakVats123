@@ -75,7 +75,7 @@ Find out more about me & feel free to connect with me here:
 
 ## 🔝 Deepak's GitHub activity graph
 
-<!-- (https://activity-graph.herokuapp.com/graph?username=deepakvats123&hide_border=true&theme=redical) -->
+![deepak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=deepakvats123&hide_border=true&theme=redical)
 
 
 
