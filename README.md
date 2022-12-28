@@ -65,6 +65,7 @@ Find out more about me & feel free to connect with me here:
 </p>
 
 
+
 ## 🔝 Most used languages
 
 <p align="center">
@@ -72,13 +73,12 @@ Find out more about me & feel free to connect with me here:
 </p>
 
 
-
-## 🔝 Deepak's GitHub activity graph
+--
 
 ![deepak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=deepakvats123&hide_border=true&theme=redical)
 
-
+--
 
 <p align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/Deepakvats123/Deepakvats123/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
