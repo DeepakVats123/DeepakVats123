@@ -73,7 +73,7 @@ Find out more about me & feel free to connect with me here:
 </p>
 
 
---
+<!-- --
 
 ![deepak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=deepakvats123&hide_border=true&theme=redical)
 
@@ -81,4 +81,18 @@ Find out more about me & feel free to connect with me here:
 
 <p align="center">
    <img src="https://github.com/Deepakvats123/Deepakvats123/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+</p> -->
+
+
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=deepakvats123&hide_border=true&theme=radical" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakvats123&hide_border=true&theme=radical" alt="summarycard"/> </p>
+<hr />
+<h3 align="center">
+ Show some ❤️ by staring some of the repositories!
+</h3>
+<br>
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/deepakvats123/count.svg" />
+</h3>
+
