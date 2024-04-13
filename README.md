@@ -27,7 +27,7 @@ Find out more about me & feel free to connect with me here:
 	</a>
 	</a>
         <a href="https://drive.google.com/file/d/1AbZmKieKS40uWX-5ro6FT8YY2qt4wvbq/view?usp=sharing">
-		<img src="https://www.pngall.com/wp-content/uploads/2016/04/Resume-PNG-Picture.png" />
+		<img width="100px" src="https://www.pngall.com/wp-content/uploads/2016/04/Resume-PNG-Picture.png" />
 	</a>
 </p>
 
