@@ -26,8 +26,11 @@ Find out more about me & feel free to connect with me here:
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 	</a>
-        <a href="https://drive.google.com/file/d/1AbZmKieKS40uWX-5ro6FT8YY2qt4wvbq/view?usp=sharing">
-		<img hieght="15px" width="80px" src="https://www.pngall.com/wp-content/uploads/2016/04/Resume-PNG-Picture.png" />
+        
+</p>
+<p>
+	<a href="https://drive.google.com/file/d/1AbZmKieKS40uWX-5ro6FT8YY2qt4wvbq/view?usp=sharing">
+		<img  width="100px" src="https://www.pngall.com/wp-content/uploads/2016/04/Resume-PNG-Picture.png" />
 	</a>
 </p>
 
