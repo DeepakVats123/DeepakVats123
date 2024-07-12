@@ -19,17 +19,17 @@ Find out more about me & feel free to connect with me here:
 	<a href="https://www.linkedin.com/in/deepak-vats-profile/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-        <a href="https://deepak-portfolio-dv.netlify.app/">
+        <a target="_blank" href="https://deepak-vats-portfolio-v1.netlify.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-        <a href="mailto:deepakvats123123@gmail.com">
+        <a  href="mailto:deepakvats123123@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 	</a>
         
 </p>
 <p align="center">
-	<a href="https://drive.google.com/file/d/1F3H83eKHkhcGs9mc2Wr3oH7AB_R-ZjxF/view">
+	<a target="_blank" href="https://drive.google.com/file/d/1F3H83eKHkhcGs9mc2Wr3oH7AB_R-ZjxF/view">
 		<img  width="100px" src="https://www.pngall.com/wp-content/uploads/2016/04/Resume-PNG-Picture.png" />
 	</a>
 </p>
