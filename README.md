@@ -17,7 +17,7 @@ Node.js, Express.js, & MongoDB. Skilled in state management using Redux
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 💻 Learning React.
+* 💻 Learning MERN Stack.
 
 
 Find out more about me & feel free to connect with me here:
