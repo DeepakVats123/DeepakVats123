@@ -2,7 +2,14 @@
 ![WebDev](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 # Hey!! Great to see you here!  :-) 
 
-### <div>An enthusiastic, aspiring Full Stack Web Developer Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as a software developer with a reputed firm driven by technology.
+### <div>
+Dynamic and detail-oriented Full Stack Web Developer with hands-on
+experience in building responsive, user-centric applications using modern
+technologies such as Next.js, React, JavaScript & TypeScript. Proficient in
+front-end development with HTML5, CSS3, and CSS frameworks like
+Tailwind-CSS and Chakra-UI, and experienced in backend development with
+Node.js, Express.js, & MongoDB. Skilled in state management using Redux
+& version control with Git & GitHub.
 </div> 
 
 
