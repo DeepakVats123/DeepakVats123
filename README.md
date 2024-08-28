@@ -1,6 +1,6 @@
 
 ![WebDev](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
-# Hey There!! Great to see you here!  :-) 
+# Hey !! Great to see you here!  :-) 
 
 ### <div>
 Dynamic and detail-oriented Full Stack Web Developer with hands-on
