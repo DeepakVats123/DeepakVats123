@@ -3,7 +3,7 @@
 # Hey !! Great to see you here!  :-) 
 
 ### <div>
-Dynamic and detail-oriented Full Stack Web Developer with hands-on
+Dynamic & detail-oriented Full Stack Web Developer with hands-on
 experience in building responsive, user-centric applications using modern
 technologies such as Next.js, React, JavaScript & TypeScript. Proficient in
 front-end development with HTML5, CSS3, and CSS frameworks like
