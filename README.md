@@ -7,7 +7,7 @@ Dynamic & detail-oriented Full Stack Web Developer with hands-on
 experience in building responsive, user-centric applications using modern
 technologies such as Next.js, React, JavaScript & TypeScript. Proficient in
 front-end development with HTML5, CSS3, and CSS frameworks like
-Tailwind-CSS and Chakra-UI, and experienced in backend development with
+Tailwind-CSS & Chakra-UI, and experienced in backend development with
 Node.js, Express.js, & MongoDB. Skilled in state management using Redux
 & version control with Git & GitHub.
 </div> 
