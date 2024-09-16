@@ -3,13 +3,11 @@
 # Hey !! Great to see you here!  :-) 
 
 ### <div>
-Dynamic & detail-oriented Full Stack Web Developer with hands-on
-experience in building responsive, user-centric applications using modern
-technologies such as Next.js, React, JavaScript & TypeScript. Proficient in
-front-end development with HTML5, CSS3, and CSS frameworks like
-Tailwind-CSS & Chakra-UI, and experienced in backend development with
-Node.js, Express.js, & MongoDB. Skilled in state management using Redux
-& version control with Git & GitHub.
+Exceptionally skilled Full Stack Web Developer with proficiency in JavaScript
+and the MERN stack (MongoDB, Express.js, React.js, Node.js).
+Demonstrates strong problem-solving skills, attention to detail, and
+efficient Generative AI use. Quickly learns new technologies and excels in
+collaborative environments.
 </div> 
 
 
